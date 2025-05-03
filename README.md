@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/seriawei-mcp-developer-name-badge.png)](https://mseep.ai/app/seriawei-mcp-developer-name)
+
 # MCP-Server
 
 It is use to return the current developer informations.
